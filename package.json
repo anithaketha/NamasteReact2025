@@ -1,0 +1,26 @@
+{
+  "name": "react_2025",
+  "version": "1.0.0",
+  "description": "learning react from akshay",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anithaketha/NamasteReact2025.git"
+  },
+  "keywords": [
+    "react",
+    "anitha"
+  ],
+  "author": "Anitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anithaketha/NamasteReact2025/issues"
+  },
+  "homepage": "https://github.com/anithaketha/NamasteReact2025#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
